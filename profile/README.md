@@ -1,6 +1,7 @@
-#Welcome
+# Welcome
 
-[ZH-CN](./README-ZH.md)
+[ZH-CN](https://github.com/skuldos/.github/blob/main/profile/README-ZH.md)
+
 
 SkuldOS is a Next Generation Modern OS.
 It is also a template for learning the principles of operating systems.

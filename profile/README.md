@@ -1,4 +1,13 @@
-## Hi there 👋
+#Welcome
+
+[ZH-CN](./README-ZH.md)
+
+SkuldOS is a Next Generation Modern OS.
+It is also a template for learning the principles of operating systems.
+
+SkuldOS is scheduled to take ten years to complete the core code (2023-2033).
+A large number of industry standard references will be collected in the process.
+And a large number of sub-projects related to OS development will be incubated.
 
 <!--
 

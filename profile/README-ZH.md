@@ -1,7 +1,7 @@
 
-#欢迎
+# 欢迎
 
-[English](./README.md)
+[English](https://github.com/skuldos/.github/blob/main/profile/README.md)
 
 SkuldOS是一个次世代现代操作系统。
 同时也是一个学习操作系统原理的模板。
